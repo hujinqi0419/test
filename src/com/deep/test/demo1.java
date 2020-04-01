@@ -9,7 +9,7 @@ public class demo1 {
     }
 
     public static void main1(String[] args) {
-
+        System.out.println(第1次上传);
     }
 
     public static void main2(String[] args) {
