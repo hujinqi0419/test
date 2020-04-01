@@ -10,7 +10,7 @@ public class demo1 {
     }
 
     public static void main2(String[] args) {
-
+        System.out.println("第2次下载");
     }
 
     public static void main3(String[] args) {
